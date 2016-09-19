@@ -1,0 +1,37 @@
+{
+  "name": "poi-plugin-airbase",
+  "version": "0.0.1",
+  "description": "desplay airbase condition, plugin for poi",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyq77766177/plugin-airbase.git"
+  },
+  "keywords": [
+    "kancolle",
+    "poi",
+    "plugin",
+    "airbase"
+  ],
+  "author": {
+    "name": "SoraYama",
+    "link": "https://github.com/hyq77766177"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyq77766177/plugin-airbase/issues"
+  },
+  "homepage": "https://github.com/hyq77766177/plugin-airbase",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "poiPlugin": {
+    "title": "airbase",
+    "description": "desplay airbase condition, plugin for poi",
+    "icon": "fa/child",
+    "priority": 10
+  }
+}
